@@ -6,3 +6,4 @@ Youtube:
 https://www.youtube.com/watch?v=JoFW2uSd3Uo&list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa
 Some code:
 https://github.com/lululxvi/deepxde
+https://github.com/maziarraissi/PINNs
